@@ -1,4 +1,4 @@
-# Nested Data Structures: Reducing Data
+# Lab: Reduce Data from an Array of Arrays
 
 For the final lab on traversing `Array` of `Array`s, we're going to apply the
 double `while` loop to find a single value.
